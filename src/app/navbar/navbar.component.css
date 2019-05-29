@@ -1,0 +1,49 @@
+/* partie 1*/
+.partie1{
+   
+    width: 100%;
+    height: 650px;
+    background-image: url('../../assets/img/photo/images/slider_image_home@1x.png');
+    background-size: 100% 100%;
+ 
+}
+.logo{
+text-align: center;
+}
+.navbar-nav .nav-link {
+padding-right: .8rem;
+padding-left: .8rem;
+color: white;
+font-size: 18px;
+text-transform: uppercase;
+text-align: center;
+
+}
+li{
+padding: 10px;
+}
+.navbar-toggler{
+margin-top:-150px ;
+margin-left: 20px;
+}
+.k{
+text-align: center;
+}
+h1{
+font-size: 22px;
+}
+#parg{
+padding-top: 120px;
+}
+.navbarr{
+padding-top: 80px;
+padding-left: 170px;
+}
+.scroll{
+text-align: center;
+margin-top: 40px;
+}
+.b1{
+margin-top: 0px;
+text-align: center
+}
